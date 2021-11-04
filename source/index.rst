@@ -11,9 +11,9 @@ Welcome to magicbean's documentation!
    :caption: Contents:
 
    install
-   support
    welcome
    quickstart
+   ETLtutorial
    configuration
    useage
    bestpractices

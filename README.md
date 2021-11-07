@@ -9,7 +9,6 @@
 - [背景](#背景)
 - [安装](#安装)
 - [使用说明](#使用说明)
-- [示例](#示例)
 - [如何贡献](#如何贡献)
 
 ## 背景
@@ -85,4 +84,5 @@ The HTML pages are in build/html.
 
 ## 如何贡献
 
-默认情况不要直接push到`main`分支，推送该分支会触发readthedocs线上更新[魔豆项目官方文档库](https://modoudocs.readthedocs.io/en/latest/)
+1. clone项目后在其它分支编辑文档
+2. 审核通过后push到`main`分支，推送该分支会触发readthedocs线上更新[魔豆项目官方文档库](https://modoudocs.readthedocs.io/en/latest/)

@@ -15,7 +15,7 @@ Welcome to magicbean's documentation!
    quickstart
    ETLtutorial
    configuration
-   useage
+   usage
    bestpractices
    APIreference
    troubleshooting

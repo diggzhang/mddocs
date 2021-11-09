@@ -10,13 +10,19 @@ Welcome to magicbean's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   docs/welcome
-   docs/install
-   docs/configuration
-   tutorial/index
-   docs/bestpractices
+   install
+   welcome
+   quickstart
+   ETLtutorial
+   configuration
+   usage
+   bestpractices
+   APIreference
+   troubleshooting
+   FAQ
+   development
+   releasenotes
    nodes/index
-   docs/troubleshooting
 
 
 Indices and tables

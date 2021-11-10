@@ -1,16 +1,11 @@
 Installation
 ============
 
-
 Requirements
 -------------
 
-
-
 Get and run
 -------------
-
-
 
 What’s available
 -----------------

@@ -1,6 +1,5 @@
 Welcome
 =======
 
-
 Key features
 -------------

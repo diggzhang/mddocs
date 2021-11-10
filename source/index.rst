@@ -17,6 +17,7 @@ Welcome to magicbean's documentation!
    docs/bestpractices
    nodes/index
    docs/troubleshooting
+   docs/releasenotes
 
 
 Indices and tables

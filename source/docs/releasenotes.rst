@@ -1,4 +1,17 @@
 releasenotes
 =============
 
-The quick brown fox jumps over the lazy dog.
+
+
+1.0.0-beta.01 (2021-11-10)
+---------------------------
+
+Features
+~~~~~~~~~
+
+- Upgraded the Reference docs
+
+Fixes
+~~~~~
+
+- Resolved an issue 

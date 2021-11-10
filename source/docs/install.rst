@@ -1,10 +1,18 @@
 Installation
 ============
 
-At the command line:
 
-easy_install crawler
+Requirements
+-------------
 
-Or, if you have pip installed:
 
-pip install crawler
+
+Get and run
+-------------
+
+
+
+What’s available
+-----------------
+
+be able to log in and view the whiteboard.

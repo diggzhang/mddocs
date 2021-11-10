@@ -1,4 +1,6 @@
 Welcome
 =======
 
-The quick brown fox jumps over the lazy dog.
+
+Key features
+-------------

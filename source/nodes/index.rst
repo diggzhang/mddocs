@@ -13,7 +13,7 @@ Nodes介绍魔豆系统的各节点
    /nodes/Aggregation
    /nodes/Alignment
    /nodes/Bucketizer
-   /nodes/CaseWhen
+   /nodes/casewhen
    /nodes/Distinct
    /nodes/Dummy
    /nodes/Explode
